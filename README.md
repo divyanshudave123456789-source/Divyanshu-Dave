@@ -1,4 +1,11 @@
-# Divyanshu-Dave
+### Hi, I'm Divyanshu!
+
+🎓 I'm a Computer Science student  
+💻 Passionate about programming and technology  
+🌱 Currently learning Python and Web Development  
+🚀 Exploring Data Science and Software Development  
+📚 Improving my skills every day through practice and projects 
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1272061210614829117) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divyanshu Dave) 
